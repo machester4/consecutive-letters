@@ -12,6 +12,7 @@
 
 - Horizontal and vertical sequences
 - Diagonal sequences
+- Diagonal inverted sequences
 
 ### Usage
 
